@@ -1,4 +1,4 @@
-name: Java simple CI pipeline
+name: Java CI pipeline
 
 on:
   push:
